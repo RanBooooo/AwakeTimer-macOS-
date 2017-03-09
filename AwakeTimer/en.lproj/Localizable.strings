@@ -1,0 +1,33 @@
+/* title of icon in the top right status bar */
+"AwakeTimer" = "AT";
+
+/* No comment provided by engineer. */
+"cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"comfirm_buttom" = "Confirm";
+
+/* No comment provided by engineer. */
+"exist" = "Exist";
+
+/* No comment provided by engineer. */
+"hour" = "h ";
+
+/* No comment provided by engineer. */
+"mintue" = "min ";
+
+/* No comment provided by engineer. */
+"modify" = "Modify";
+
+/* No comment provided by engineer. */
+"notset" = "Not Set";
+
+/* No comment provided by engineer. */
+"prevent_sleep_label" = "Disable sleep for(min): ";
+
+/* No comment provided by engineer. */
+"remain" = "Time Left: ";
+
+/* No comment provided by engineer. */
+"set" = "Set";
+

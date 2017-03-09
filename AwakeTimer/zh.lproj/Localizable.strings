@@ -1,0 +1,33 @@
+/* title of icon in the top right status bar */
+"AwakeTimer" = "AT";
+
+/* No comment provided by engineer. */
+"cancel" = "解除";
+
+/* No comment provided by engineer. */
+"comfirm_buttom" = "设置";
+
+/* No comment provided by engineer. */
+"exist" = "退出";
+
+/* No comment provided by engineer. */
+"hour" = "时";
+
+/* No comment provided by engineer. */
+"mintue" = "分";
+
+/* No comment provided by engineer. */
+"modify" = "修改";
+
+/* No comment provided by engineer. */
+"notset" = "未设置";
+
+/* No comment provided by engineer. */
+"prevent_sleep_label" = "防止Mac休眠(分钟)：";
+
+/* No comment provided by engineer. */
+"remain" = "剩余：";
+
+/* No comment provided by engineer. */
+"set" = "设置";
+
